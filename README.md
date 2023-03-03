@@ -1,6 +1,6 @@
 
 <p align="center"><img alt="Tanvi's Profile Banner" src="https://user-images.githubusercontent.com/108461369/222713824-f453bfe0-33d7-4c44-b863-c4cfcde12bd7.png"></p>
-<p align="center"> I'm a fullstack & DevOps Developer. I'm in love with Opensource, Communties and also am building an Opensource project. I am up for freelancing projects, mentorships, workshops. </p>
+<p align="center"> I'm a fullstack Developer, Learner. I'm in love with Opensource, Communties and also am building an Opensource project. I am up for freelancing projects, mentorships, workshops. </p>
 <p align="center"> Visit my <a href=""> Portfolio </a> </p>
 <p align="center">Visit my<a href=""> Hashnode Profile </a>for Tech-Blogs</p>
 
