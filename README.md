@@ -71,7 +71,7 @@
 ## 📊 Github Stats and Activity
 <p align="center">
     <a href="https://streak-stats.demolab.com?user=theleocodes&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
-      <img alt="Tanvi's stats" src="https://streak-stats.demolab.com?user=adityassharma-ss&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+      <img alt="Tanvi's stats" src="https://streak-stats.demolab.com?user=theleocodes&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
     </a>
   </p>
 
